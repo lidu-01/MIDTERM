@@ -1,0 +1,39 @@
+Account: 1001, Holder: John Doe, Balance: $600.00
+
+Transaction History for Account 1001 (John Doe):
+Deposited $200.000000, New Balance: $700.000000
+Withdrew $100.000000, New Balance: $600.000000
+Account: 1002, Holder: Jane Smith, Balance: $700.00
+
+Transaction History for Account 1002 (Jane Smith):
+Withdrew $300.000000, New Balance: $700.000000
+Account: 1003, Holder: Alice Johnson, Balance: $300.00
+
+Transaction History for Account 1003 (Alice Johnson):
+Deposited $50.000000, New Balance: $300.000000
+Account: 1001, Holder: John Doe, Balance: $600.00
+
+Transaction History for Account 1001 (John Doe):
+Deposited $200.000000, New Balance: $700.000000
+Withdrew $100.000000, New Balance: $600.000000
+Account: 1002, Holder: Jane Smith, Balance: $700.00
+
+Transaction History for Account 1002 (Jane Smith):
+Withdrew $300.000000, New Balance: $700.000000
+Account: 1003, Holder: Alice Johnson, Balance: $300.00
+
+Transaction History for Account 1003 (Alice Johnson):
+Deposited $50.000000, New Balance: $300.000000
+Account: 1001, Holder: John Doe, Balance: $600.00
+
+Transaction History for Account 1001 (John Doe):
+Deposited $200.000000, New Balance: $700.000000
+Withdrew $100.000000, New Balance: $600.000000
+Account: 1002, Holder: Jane Smith, Balance: $700.00
+
+Transaction History for Account 1002 (Jane Smith):
+Withdrew $300.000000, New Balance: $700.000000
+Account: 1003, Holder: Alice Johnson, Balance: $300.00
+
+Transaction History for Account 1003 (Alice Johnson):
+Deposited $50.000000, New Balance: $300.000000

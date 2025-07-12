@@ -1,0 +1,27 @@
+Data Type Sizes (in bytes):
+int: 4
+double: 8
+string: 24
+Account*: 8
+Deposited $200 to Account 1001
+Withdrew $300 from Account 1002
+Deposited $50 to Account 1003
+Withdrew $100 from Account 1001
+
+Account Details:
+Holder: John Doe
+Account Number: 1001
+Balance: $600.00
+
+Transaction History for Account 1001 (John Doe):
+Deposited $200.000000, New Balance: $700.000000
+Withdrew $100.000000, New Balance: $600.000000
+
+Account Details:
+Holder: Jane Smith
+Account Number: 1002
+Balance: $700.00
+
+Transaction History for Account 1002 (Jane Smith):
+Withdrew $300.000000, New Balance: $700.000000
+Account 1004 not found!
